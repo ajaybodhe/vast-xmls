@@ -3,7 +3,7 @@
   <Ad id="602833">
   <Wrapper>
     <AdSystem>Acudeo Compatible</AdSystem>
-    <VASTAdTagURI>http://demo.tremormedia.com/proddev/vast/vast_inline_linear.xml</VASTAdTagURI>
+    <VASTAdTagURI>https://raw.githubusercontent.com/ajaybodhe/vast-xmls/master/vast_inline_linear1.xml</VASTAdTagURI>
     <Error>http://myErrorURL/wrapper/error</Error>
     <Impression>http://myTrackingURL/wrapper/impression</Impression>
 	<Creatives>
