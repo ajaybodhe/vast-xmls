@@ -24,7 +24,7 @@
                      <ClickTracking>http://myTrackingURL/click</ClickTracking>
                   </VideoClicks>
                   <MediaFiles>
-                     <MediaFile delivery="progressive" type="video/x-flv" bitrate="500" width="400" height="300" scalable="true" maintainAspectRatio="true">http://cdnp.tremormedia.com/video/acudeo/Carrot_400x300_500kb.flv</MediaFile>
+                     <MediaFile id="103045544" height="396" width="704" bitrate="1059" type="video/mp4" delivery="progressive" maintainAspectRatio="true" scalable="true"><![CDATA[http://adservex-staging.media.net/static/videos/videotest.mp4]]></MediaFile>
                   </MediaFiles>
                </Linear>
             </Creative>
