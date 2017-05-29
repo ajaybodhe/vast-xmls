@@ -1,0 +1,47 @@
+{
+	"creative_id": "553688644",
+	"creative_type": "",
+	"bl": [{
+		"bidderInfoBean": {},
+		"no_bid": true,
+		"nbc": 3,
+		"at": "O"
+	}, {
+		"bidderInfoBean": {
+			"dataCenter": "west",
+			"serverId": "c12-nc1c-videoads-backend-web-2",
+			"adtype": "html",
+			"prvAccId": "559881057"
+		},
+		"no_bid": true,
+		"nbc": 7,
+		"bidder_id": 9,
+		"size": "300x250",
+		"ext_placement_code": "559881057",
+		"publisher_id": "new-default",
+		"at": "O"
+	}, {
+		"bidderInfoBean": {
+			"responseTime": 17,
+			"category": ["Sports"],
+			"cmpId": "298",
+			"dataCenter": "default",
+			"serverId": "c12-nc1c-videoads-backend-web-2",
+			"rstb": true,
+			"adtype": "xml"
+		},
+		"bidder_id": 1,
+		"adcode": "https://raw.githubusercontent.com/ajaybodhe/vast-xmls/master/media.xml",
+		"adUrl": "https://raw.githubusercontent.com/ajaybodhe/vast-xmls/master/media.xml",
+		"logging_pixels": ["http://txch.media.net/Tracker/track?time_stamp=2017-05-29+08%3A50%3A06\u0026auction_id=12af50b3-ab3b-4bc4-91df-4bba27c8da98\u0026bidder_id=1\u0026price=${AUCTION_PRICE}\u0026event=win", "http://www.example.com/"],
+		"og_bid": 5.1,
+		"size": "320x320",
+		"ext_placement_code": "553688644",
+		"dealid": "667fdf7",
+		"publisher_id": "new-default",
+		"buyer_id": "298",
+		"at": "P"
+	}],
+	"bidderInfoBean": {},
+	"skippable": false
+}
