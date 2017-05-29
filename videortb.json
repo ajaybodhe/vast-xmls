@@ -35,7 +35,7 @@
 		"adUrl": "https://raw.githubusercontent.com/ajaybodhe/vast-xmls/master/media.xml",
 		"logging_pixels": ["http://txch.media.net/Tracker/track?time_stamp=2017-05-29+08%3A50%3A06\u0026auction_id=12af50b3-ab3b-4bc4-91df-4bba27c8da98\u0026bidder_id=1\u0026price=${AUCTION_PRICE}\u0026event=win", "http://www.example.com/"],
 		"og_bid": 5.1,
-		"size": "320x320",
+		"size": "300x250",
 		"ext_placement_code": "553688644",
 		"dealid": "667fdf7",
 		"publisher_id": "new-default",
